@@ -1,4 +1,5 @@
 console.log('app.js 010');
+console.log('bit js 010');
 
 // 1. Reikia parašyti funkciją, kuri priima vieną argumentą - stringą ir tą stringą ideda į h1 tagą ir tą h1 tagą ideda į body tagą.
 
